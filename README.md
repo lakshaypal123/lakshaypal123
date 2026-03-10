@@ -18,7 +18,9 @@
 
 ## Coding Profiles
 LeetCode: https://leetcode.com/u/lakshyapal123
+
 GeeksforGeeks: https://geeksforgeeks.org/profile/lakshya83yi
+
 Hackerrank: https://hackerrank.com/profile/lakshaypal123
 
 ## Currently Learning
