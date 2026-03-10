@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Lakshay
 
-<!--
-**lakshaypal123/lakshaypal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Web Developer | Problem Solver  
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Python
+- JavaScript
+- React
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Voice Based Billing System (NLU + Python)  
+🔹 Skill Swap Platform (React)  
+🔹 Password Generator with Strength Checker  
+🔹 Zomato Frontend Clone  
+
+## Coding Profiles
+LeetCode: https://leetcode.com/u/lakshyapal123
+GeeksforGeeks: https://geeksforgeeks.org/profile/lakshya83yi
+Hackerrank: hackerrank.com/profile/lakshaypal123
+
+## Currently Learning
+MERN Stack and Data Structures
